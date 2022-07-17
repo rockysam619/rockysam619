@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Rohit Sharma @rockysam619
-- 👀 I’m interested in  Web Development, Data Structures and Algorithms, DevSecOps implementations, Python, Azure, AWS and Terraform.
-- 🌱 I’m currently learning Python
+- 👋 Hi, I’m @rockysam619
+- 👀 I’m interested in Data Structures and Algorithms, DevSecOps implementations, Python, Cloud Computing, System Design and Terraform
 - 📫 How to reach me - rohit.sharma1807@gmail.com
 
 <!---
