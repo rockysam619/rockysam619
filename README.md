@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rockysam619
+- 👋 Hi, I’m Rohit
 - 👀 I’m interested in Data Structures and Algorithms, DevSecOps implementations, Python, Cloud Computing, System Design and Terraform
 - 📫 How to reach me - rsharmadevops@gmail.com
 
